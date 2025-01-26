@@ -1,6 +1,7 @@
 <script lang="ts">
 import '../app.css';
 import { fly } from 'svelte/transition';
+import { page } from '$app/stores';
 import Navigation from '$lib/components/Navigation.svelte';
 import AnimatedHeader from '$lib/components/AnimatedHeader.svelte';
 
@@ -22,7 +23,9 @@ const navItems = [
     <header class="pt-28 md:pt-28 pb-6 md:pb-8 px-4 sm:px-6 relative z-10">
         <div class="container mx-auto max-w-7xl w-full">
             <slot name="header">
-                <AnimatedHeader text=">> Initializing secure environment..." speed={50} />
+                {#key $page.url.pathname}
+                    <AnimatedHeader text=">> Initializing secure environment..." speed={50} />
+                {/key}
             </slot>
         </div>
     </header>
