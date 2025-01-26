@@ -52,7 +52,7 @@ onMount(() => {
                     <span class="circles"></span>
                     <span class="circles"></span>
                     <span class="circles"></span>
-                    <h3 class="typewriter">JOHN BRITTO MATRIC HR.SEC.SCHOOL</h3>
+                    <h3 class="typewriter">JOHN BRITTO MATRIC HR. SEC. SCHOOL</h3>
                 </div>
                 <div class="terminal-content">
                     <p class="duration">2017 - 2019</p>
