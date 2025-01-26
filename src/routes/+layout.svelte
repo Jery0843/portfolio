@@ -19,7 +19,7 @@ const navItems = [
 <div class="min-h-screen flex flex-col bg-black text-green-400 relative">
     <Navigation {navItems} />
     <div class="matrix-bg fixed inset-0 opacity-20 pointer-events-none z-0"></div>
-    <header class="pt-20 md:pt-28 pb-6 md:pb-8 px-4 sm:px-6 relative z-10">
+    <header class="pt-24 md:pt-28 pb-6 md:pb-8 px-4 sm:px-6 relative z-10">
         <div class="container mx-auto max-w-7xl w-full">
             <slot name="header">
                 <AnimatedHeader text=">> Initializing secure environment..." speed={50} />
@@ -32,8 +32,8 @@ const navItems = [
         </div>
     </main>
     <footer class="relative z-10 py-4 px-4 sm:px-6 border-t border-green-500/30">
-        <div class="container mx-auto max-w-7xl text-center text-sm">
-            <p class="text-green-400/70">&copy; 2024 Security Research & Development</p>
+        <div class="container mx-auto max-w-7xl text-center">
+            <p class="text-green-400/70 text-sm font-mono tracking-wide">&copy; 2025 Jerome Andrew K. All Rights Reserved</p>
         </div>
     </footer>
 </div>
