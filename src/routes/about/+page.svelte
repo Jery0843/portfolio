@@ -8,7 +8,7 @@ let showContent = false;
 
 const skills = [
     "Data Analytics",
-    "Cybersecurity",
+    "Cyber Security",
     "Machine Learning", 
     "Cloud Security",
     "Neural Networks",
