@@ -12,7 +12,7 @@ onMount(() => {
 
     <div class="timeline">
         <!-- CEH Entry -->
-        <div class="timeline-entry left">
+        <div class="timeline-entry right">
             <div class="content-box">
                 <div class="terminal-header">
                     <span class="circles"></span>
@@ -29,7 +29,7 @@ onMount(() => {
         </div>
         
         <!-- MSc Entry -->
-        <div class="timeline-entry right">
+        <div class="timeline-entry left">
             <div class="content-box">
                 <div class="terminal-header">
                     <span class="circles"></span>
@@ -46,7 +46,7 @@ onMount(() => {
         </div>
 
         <!-- BSc Entry -->
-        <div class="timeline-entry left">
+        <div class="timeline-entry right">
             <div class="content-box">
                 <div class="terminal-header">
                     <span class="circles"></span>
@@ -63,7 +63,7 @@ onMount(() => {
         </div>
 
         <!-- High School Entry -->
-        <div class="timeline-entry right">
+        <div class="timeline-entry left">
             <div class="content-box">
                 <div class="terminal-header">
                     <span class="circles"></span>
