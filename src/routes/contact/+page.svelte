@@ -9,7 +9,7 @@ const contacts = {
     ],
     social: [
         { platform: 'Github', url: 'https://github.com/Jery0843', icon: '💻' },
-        { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/jerome-andrew-k-093b2620a/', icon: '🔗' },
+        { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/jeromeandrewk/', icon: '🔗' },
         { platform: 'Instagram', url: 'https://www.instagram.com/jerry_aio/', icon: '📸' }
     ]
 };
