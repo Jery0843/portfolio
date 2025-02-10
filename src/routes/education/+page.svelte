@@ -18,11 +18,11 @@ onMount(() => {
                     <span class="circles"></span>
                     <span class="circles"></span>
                     <span class="circles"></span>
-                    <h3 class="typewriter">RED TEAM HACKER ACADEMY, CHENNAI</h3>
+                    <h3 class="typewriter">REDTEAM HACKER ACADEMY, CHENNAI</h3>
                 </div>
                 <div class="terminal-content">
                     <p class="duration">2024 - Present</p>
-                    <p class="degree">CEH Practioner</p>
+                    <p class="degree">CEH (Certified Ethical Hacker)</p>
                     
                 </div>
             </div>
