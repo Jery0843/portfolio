@@ -11,6 +11,23 @@ onMount(() => {
     <h1 class="glowing-text">> Education_History</h1>
 
     <div class="timeline">
+        <!-- CEH Entry -->
+        <div class="timeline-entry left">
+            <div class="content-box">
+                <div class="terminal-header">
+                    <span class="circles"></span>
+                    <span class="circles"></span>
+                    <span class="circles"></span>
+                    <h3 class="typewriter">RED TEAM HACKER ACADEMY, CHENNAI</h3>
+                </div>
+                <div class="terminal-content">
+                    <p class="duration">2024 - Present</p>
+                    <p class="degree">CEH Practioner</p>
+                    
+                </div>
+            </div>
+        </div>
+        
         <!-- MSc Entry -->
         <div class="timeline-entry right">
             <div class="content-box">
