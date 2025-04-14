@@ -52,7 +52,7 @@ onMount(() => {
                     <span class="circles"></span>
                     <span class="circles"></span>
                     <span class="circles"></span>
-                    <h3 class="typewriter">LOYOLA COLLEGE OF ARTS AND SCIENCE</h3>
+                    <h3 class="typewriter">LOYOLA COLLEGE OF ARTS AND SCIENCE, METTALA</h3>
                 </div>
                 <div class="terminal-content">
                     <p class="duration">2019 - 2022</p>
