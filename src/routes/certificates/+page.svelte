@@ -62,6 +62,12 @@ onMount(() => {
 
 const certificates = [
     {
+    title: "Cyber Security Fundamentals",
+    link: "https://www.coursera.org/account/accomplishments/verify/BK5NRV16SRJ0",
+    organization: "University of London",
+    date: "May 2025"
+    },
+    {
     title: "AI for Cybersecurity Specialization",
     link: "https://www.coursera.org/account/accomplishments/specialization/U3N82RMLGXH2",
     organization: "The Johns Hopkins University",
