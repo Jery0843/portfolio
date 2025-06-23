@@ -21,8 +21,8 @@ onMount(() => {
                     <h3 class="typewriter">REDTEAM HACKER ACADEMY, CHENNAI</h3>
                 </div>
                 <div class="terminal-content">
-                    <p class="duration">2024 - Present</p>
-                    <p class="degree">CEH (Certified Ethical Hacker)</p>
+                    <p class="duration">2024 - 2025</p>
+                    <p class="degree">Certified Ethical Hacker (CEH v13)</p>
                     
                 </div>
             </div>
