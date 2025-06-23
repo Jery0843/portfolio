@@ -62,6 +62,12 @@ onMount(() => {
 
 const certificates = [
     {
+    title: "Certified Ethical Hacker (CEH v13)",
+    link: "https://drive.google.com/file/d/1Tg7jN-2iZs7oYH23CL4p6txL7QfJJcBl/view?usp=sharing",
+    organization: "EC-Council",
+    date: "June 2025"
+    },
+    {
     title: "Cyber Security Fundamentals",
     link: "https://www.coursera.org/account/accomplishments/verify/BK5NRV16SRJ0",
     organization: "University of London",
