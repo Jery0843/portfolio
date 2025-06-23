@@ -72,8 +72,8 @@ function initMatrix() {
                             <span class="title">sys_info.exe</span>
                         </div>
                         <div class="terminal-content">
-                            <p>Hello! I'm Jerome Andrew, a passionate and driven computer enthusiast who excels in solving complicated challenges with unique solutions.</p>
-                            <p>With a solid background in data analytics, cybersecurity, and software development, I specialize in creating secure and efficient solutions that help businesses prosper in the digital age.</p>
+                            <p>Hello! I'm Jerome Andrew — a curious mind, a builder at heart, and a cybersecurity-aware developer with a passion for transforming complex problems into innovative, real-world solutions.</p>
+                            <p>With hands-on experience in data analytics, ethical hacking, and software engineering, I focus on crafting secure, intelligent, and future-ready digital systems that empower organizations to thrive in a connected world.</p>
                         </div>
                     </div>
 
@@ -97,10 +97,9 @@ function initMatrix() {
                             <span class="title">mindset.exe</span>
                         </div>
                         <div class="terminal-content">
-                            <p>I don't just follow trends; I set them. I've mastered the art of predictive modeling, network risk assessments, and AI-powered solutions that produce demonstrable outcomes.</p>
-                            <p>I consider every project as an opportunity to push limits, whether it's developing secure protocols, devising algorithms, or streamlining business processes.</p>
-                            <p>When I'm not innovating, I'm looking into the limitless potential of combining AI, cybersecurity, and data analytics to create a smarter, safer, and more efficient future.</p>
-                        </div>
+                            <p>I don't just adapt to emerging technologies — I anticipate and architect them. My strength lies in combining predictive analytics, threat intelligence, and automation to build solutions that don’t just function — they evolve.</p>
+                            <p>Every challenge is an opportunity to rethink what's possible — whether it's designing encryption systems, building scalable ML pipelines, or proactively identifying security gaps before they become threats.</p>
+                            <p>Outside of code, I’m constantly exploring the intersection of AI, cybersecurity, and data to shape a smarter, safer digital ecosystem — where innovation is secure by design.</p>
                     </div>
                 </div>
             </div>
