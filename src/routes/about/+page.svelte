@@ -8,11 +8,11 @@ let showContent = false;
 
 const skills = [
     "Data Analytics",
-    "Cyber Security",
+    "Ethical Hacking",
     "Machine Learning", 
     "Cloud Security",
-    "Neural Networks",
-    "Penetration Testing"
+    "Cyber Security",
+    "Neural Networks"
 ];
 
 onMount(() => {
