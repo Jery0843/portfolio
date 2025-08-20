@@ -73,19 +73,19 @@ function initMatrix() {
                 <div class="glitch">
                     <div class="glitch__base">
                         <img 
-                            src="https://securehive.securenotepad.tech/Snapchat-1649986276~2.jpg" 
+                            src="https://securehive.securenotepad.tech/1.jpeg" 
                             alt="Jerome's Profile"
                         />
                     </div>
                     <div class="glitch__layer">
                         <img 
-                            src="https://securehive.securenotepad.tech/Snapchat-1649986276~2.jpg" 
+                            src="https://securehive.securenotepad.tech/1.jpeg" 
                             alt="Jerome's Profile"
                         />
                     </div>
                     <div class="glitch__layer">
                         <img 
-                            src="https://securehive.securenotepad.tech/Snapchat-1649986276~2.jpg" 
+                            src="https://securehive.securenotepad.tech/1.jpeg" 
                             alt="Jerome's Profile"
                         />
                     </div>
