@@ -9,6 +9,32 @@ let showContent = false;
 
 const projects = [
     {
+    title: "HackTheBox & TryHackMe Labs",
+    url: "https://htb-writeups.securenotepad.tech/",
+    duration: "Ongoing",
+    affiliation: "Self-Study",
+    overview: "Hands-on penetration testing practice through HackTheBox and TryHackMe platforms, covering real-world attack scenarios and advanced exploitation techniques.",
+    focusAreas: {
+        "Web Application Security": [
+        "SQL Injection, XSS, CSRF, and authentication bypasses"
+        ],
+        "Privilege Escalation": [
+        "Windows and Linux privilege escalation via misconfigurations and kernel exploits"
+        ],
+        "Network Exploitation": [
+        "Enumeration and exploitation of services using Nmap, Hydra, and Metasploit"
+        ],
+        "Reverse Engineering & Forensics": [
+        "Analyzed binaries, memory dumps, and applied reverse engineering techniques"
+        ]
+    },
+    stack: {
+        Tools: "Burp Suite, Metasploit, Nmap, John the Ripper, Hydra",
+        Skills: "Privilege Escalation, Web Exploitation, Reverse Engineering, Forensics"
+    },
+    significance: "Strengthened offensive security skills in a controlled environment by solving real-world inspired challenges, ranking among top performers in selected labs."
+},
+    {
     title: "CloudSEK CTF",
     url: "https://medium.com/@OxJerry/cloudsek-ctf-report-aug-2025-e494f880001a",
     duration: "Aug 2025",
@@ -36,32 +62,6 @@ const projects = [
         Techniques: "OSINT, AI Prompt Injection, GraphQL Exploitation, JWT Forgery, MFA Bypass, SSRF"
     },
     significance: "Demonstrated advanced penetration testing skills by chaining vulnerabilities to achieve privileged access, while also providing remediation strategies."
-},
-{
-    title: "HackTheBox & TryHackMe Labs",
-    url: "https://htb-writeups.securenotepad.tech/",
-    duration: "Ongoing",
-    affiliation: "Self-Study",
-    overview: "Hands-on penetration testing practice through HackTheBox and TryHackMe platforms, covering real-world attack scenarios and advanced exploitation techniques.",
-    focusAreas: {
-        "Web Application Security": [
-        "SQL Injection, XSS, CSRF, and authentication bypasses"
-        ],
-        "Privilege Escalation": [
-        "Windows and Linux privilege escalation via misconfigurations and kernel exploits"
-        ],
-        "Network Exploitation": [
-        "Enumeration and exploitation of services using Nmap, Hydra, and Metasploit"
-        ],
-        "Reverse Engineering & Forensics": [
-        "Analyzed binaries, memory dumps, and applied reverse engineering techniques"
-        ]
-    },
-    stack: {
-        Tools: "Burp Suite, Metasploit, Nmap, John the Ripper, Hydra",
-        Skills: "Privilege Escalation, Web Exploitation, Reverse Engineering, Forensics"
-    },
-    significance: "Strengthened offensive security skills in a controlled environment by solving real-world inspired challenges, ranking among top performers in selected labs."
 },
     {
     title: "SecureHive",
