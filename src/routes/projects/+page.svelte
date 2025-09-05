@@ -36,7 +36,7 @@ const projects = [
 },
     {
     title: "CloudSEK CTF",
-    url: "https://medium.com/@OxJerry/cloudsek-ctf-report-aug-2025-e494f880001a",
+    url: "https://cloudsek-ctf-report.hashnode.dev/cloudsek-hiring-ctf-august-2025-report-and-insights",
     duration: "Aug 2025",
     affiliation: "CloudSEK",
     overview: "Participated in CloudSEK’s Capture the Flag (CTF) challenge, simulating real-world penetration testing scenarios with a focus on web applications, authentication mechanisms, and API exploitation.",
