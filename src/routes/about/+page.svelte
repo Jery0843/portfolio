@@ -106,7 +106,7 @@ function initMatrix() {
 
             <div class="cta-section" in:fly={{ y: 50, duration: 800, delay: 400 }}>
                 <p class="neon-text">Let’s connect — I’m always looking to collaborate on breakthrough ideas, drive innovation, and build what’s next.</p>
-                <a href="https://files.securenotepad.tech/Resume.pdf" class="resume-download glitch-container" target="_blank" rel="noopener noreferrer">
+                <a href="https://xw2f7-my.sharepoint.com/:b:/g/personal/jerry_xw2f7_onmicrosoft_com/Ee3C3TnIxjhMrb2rLEX1koMBMfy7yixqd9EyPxRSKJMNuw?e=Un7NOm" class="resume-download glitch-container" target="_blank" rel="noopener noreferrer">
                     <div class="terminal-box">
                         <div class="terminal-header">
                             <div class="controls">
