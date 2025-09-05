@@ -10,7 +10,7 @@ let showContent = false;
 const projects = [
     {
     title: "HackTheBox & TryHackMe Labs",
-    url: "https://htb-writeups.hashnode.dev/",
+    url: "https://htb-writeup.hashnode.dev/",
     duration: "Ongoing",
     affiliation: "Self-Study",
     overview: "Hands-on penetration testing practice through HackTheBox and TryHackMe platforms, covering real-world attack scenarios and advanced exploitation techniques.",
